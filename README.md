@@ -9,4 +9,6 @@ INSIGHTS FROM THE RESULTS:
 
 ![image](https://github.com/Srivatsan8055/Uber-NewYork-Data-Analysis/assets/114812178/82c1ea92-f2e5-4a71-8e92-118380b15d5d)
 
+![newplot](https://github.com/Srivatsan8055/Uber-NewYork-Data-Analysis/assets/114812178/ac8fff14-df55-4729-9399-3629298e7e8f)
 
+![newplot (1)](https://github.com/Srivatsan8055/Uber-NewYork-Data-Analysis/assets/114812178/3d9300ab-16b0-4c3c-804f-c7ac16c0aa08)
